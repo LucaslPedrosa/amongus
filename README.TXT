@@ -1,5 +1,2 @@
 
-```markdown
-![amogus](amogus.png)
-
- ```
+![amogus](amogus.jpg)
